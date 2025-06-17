@@ -2,8 +2,8 @@
 
 # wsl-batchscript
 
-*Windows batch file designed to simplify the installation, management, and backup/restore of Windows Subsystem for Linux (WSL) distributions*
-*welp just lazy thing installing wsl*
+*Windows installation, management, and backup/restore of Windows Subsystem for Linux (WSL) distributions*
+
 - Download and Save the Script
 - Save the content as WSL-Tool.bat on your Windows machine.
 - Run as Administrator
