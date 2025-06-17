@@ -1,4 +1,4 @@
-# 👾 Choonky WSL Batchscript
+# 👾 Choonky
 
 # wsl-batchscript
 
